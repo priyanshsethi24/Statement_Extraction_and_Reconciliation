@@ -25,34 +25,6 @@ The system is designed to process financial and business documents, extract stru
 
 ---
 
-## API Endpoint
-### `POST /extract_entity`
-
-#### Request Body:
-```json
-{
-  "file_list": ["s3://bucket-name/path/to/document.pdf"],
-  "entity_list": [
-    {"entity_name": "Invoice Number", "entity_type": "text"},
-    {"entity_name": "Transactions", "entity_type": "table"}
-  ],
-  "model_name": "gpt-4-turbo"
-}
-
-
-## Expected Response
-{
-  "message": "Entity Extraction successful",
-  "data": {
-    "file_name": "document.pdf",
-    "token_dict": {"input": 1200, "output": 300, "total": 1500},
-    "entity_table_list": [
-      {"entity_name": "Invoice Number", "entity_value": "12345", "entity_type": "Text"},
-      {"entity_name": "Transactions", "table_data": [...], "entity_type": "Table"}
-    ]
-  }
-}
-
 
 
 ## Requirements
