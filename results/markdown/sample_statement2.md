@@ -1,0 +1,12 @@
+Commerce Bank
+
+1000 Walnut
+
+Kansas City MO 64106-3686
+
+Jane Customer
+
+1234 Anywhere Dr. Small Town, MO 123
+
+<table><tr><td></td><td></td><td></td><td>Primary Account Number:</td><td>000009752</td></tr><tr><td colspan="5">Bank Statement</td></tr><tr><td colspan="3">If you have any questions about your statement, please call us at 816-234-2265</td><td>Statement Date:</td><td>June 5, 2003</td></tr><tr><td></td><td></td><td>Page Number:</td><td></td><td>1</td></tr><tr><td colspan="5">CONNECTIONS CHECKING Account # 000009752</td></tr><tr><td colspan="5">Account Summary Account # 000009752</td></tr><tr><td colspan="5">Beginning Balance on May 3, 2003</td><td>$7,126.11</td></tr><tr><td colspan="3">Deposits &amp; Other Credits</td><td>+3,615.08</td></tr><tr><td colspan="3">ATM Withdrawals &amp; Debits</td><td>-20.00</td></tr><tr><td colspan="3">VISA Check Card Purchases &amp; Debits</td><td>-0.00</td></tr><tr><td colspan="3">Withdrawals &amp; Other Debits</td><td>-0.00</td></tr><tr><td colspan="3">Checks Paid</td><td>-200.00</td></tr><tr><td></td><td></td><td></td><td></td><td>$10,521.19</td></tr><tr><td colspan="5">Ending Balance on June 5, 2003</td></tr><tr><td colspan="5">Deposits &amp; Other Credits Account # 000009752</td></tr><tr><td colspan="3">Description</td><td>Date Credited</td><td>Amount</td></tr><tr><td>Deposit</td><td></td><td>Ref Nbr:</td><td>130012345</td><td>05-15</td><td>$3,615.08</td></tr><tr><td colspan="3">Total Deposits &amp; Other Credits</td><td></td><td>$3,615.08</td></tr><tr><td colspan="5">ATM Withdrawals &amp; Debits Account # 000009752</td></tr><tr><td colspan="3">Description</td><td>Tran Date</td><td>Date Paid</td><td>Amount</td></tr><tr><td colspan="5">ATM Withdrawal</td></tr><tr><td>1000 Walnut St Kansas City MO</td><td>M119 00005678</td><td></td><td>05-18</td><td>05-19</td><td>$20.00</td></tr><tr><td colspan="5">Total ATM Withdrawals &amp; Debits</td><td>$20.00</td></tr><tr><td colspan="5">Checks Paid Account # 000009752</td></tr><tr><td>Date Paid</td><td>Check Number</td><td>Amount</td><td>Reference Number</td><td></td><td></td></tr><tr><td>05-12</td><td>1001</td><td>75.00</td><td>00012576589</td><td></td><td>$20.00</td></tr><tr><td>05-18</td><td>1002</td><td>30.00</td><td>00036547854</td><td></td><td></td></tr><tr><td>05-24</td><td>1003</td><td>200.00</td><td>00094613547</td><td></td><td></td></tr><tr><td colspan="3">Total Checks Paid</td><td></td><td>$305.00</td></tr></table>
+
